@@ -4,11 +4,6 @@ Hi 👋 My name is Uğur Yavaş
 A Software Enthusiast
 ---------------------
 
-I learned software development because of my high school education and I continue as a fun hobby.
-
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [heniugur@gmail.com](mailto:heniugur@gmail.com)
-
 <a href="https://www.github.com/Duoslow" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Duoslow?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ugurumben_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ugurumben_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
