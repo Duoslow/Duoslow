@@ -1,8 +1,3 @@
-Hi 👋 My name is Uğur Yavaş
-===========================
-
-
-
 ### Skills
 
 <p align="left">
