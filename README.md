@@ -9,14 +9,7 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/102311686148468736" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Duoslow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UC8UKM6xnC8alQekoCb4zXvQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/ugurumben_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a><a href="https://steamcommunity.com/id/duoslow21/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/Duoslow"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duoslow&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Duoslow's GitHub stats" /></a>
 
@@ -24,7 +17,7 @@
 
 <a href="http://www.github.com/Duoslow"><img src="https://github-profile-trophy.vercel.app/?username=Duoslow&theme=alduin&no-frame=true&column=7" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/Duoslow/zerotierIndicator" align="left"><img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Duoslow&repo=zerotierIndicator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
